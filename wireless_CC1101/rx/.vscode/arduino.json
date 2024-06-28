@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduinoisp",
+    "port": "COM8",
+    "sketch": "rx.ino"
+}
